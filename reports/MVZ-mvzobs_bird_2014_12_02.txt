@@ -1,0 +1,61 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 33
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 1
+	Date: 2014-11-05 ; Times: 2
+	Date: 2014-11-15 ; Times: 1
+	Date: 2014-11-19 ; Times: 2
+	Date: 2014-11-22 ; Times: 1
+	Date: 2014-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "parrot" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 2
+	Query: "vanellus chilensis" ; Times: 2
+	Query: "lion" ; Times: 1
+	Query: "vireo griseus stateprovince:"Florida"" ; Times: 1
+	Query: "vireo idaho" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 120
+Total number of records retrieved from searches: 1972
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 10667
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 120
+Total number of records retrieved from searches: 1972
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 10667
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
