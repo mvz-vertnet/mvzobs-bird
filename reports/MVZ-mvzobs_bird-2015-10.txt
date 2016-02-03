@@ -1,0 +1,85 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 97
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Venezuela ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "aves venezuela" ; Times: 2
+	Query: "calocitta formosa" ; Times: 2
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "Pipilo maculatus" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "(strix)" ; Times: 1
+	Query: "Ciccaba virgata mappable:1" ; Times: 1
+	Query: "catalognumber:1 collectioncode:Bird institutioncode:MVZ" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "strix" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 823 download events in this period)
+Total number of records downloaded: 2746
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Venezuela ; Times: 1
+	Country: Chile ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "(ciccaba)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+
+
+End of report.
