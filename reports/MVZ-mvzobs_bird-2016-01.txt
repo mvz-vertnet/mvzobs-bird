@@ -1,0 +1,93 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 174
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-11 ; Times: 5
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "himatione" ; Times: 1
+	Query: "mvz 1830" ; Times: 1
+	Query: "mvz 1835" ; Times: 1
+	Query: "mvz 407" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "class:Aves locality:&#34;Santa Cruz Island&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "polioptila plumbea" ; Times: 1
+	Query: "&#34;Thamnophilus caerulescens&#34;" ; Times: 1
+	Query: "catalognumber:3537 institutioncode:MVZ" ; Times: 1
+	Query: "class:aves catalognumber:3537 institutioncode:MVZ" ; Times: 1
+	Query: "class:aves country:&#34;venezuela&#34;" ; Times: 1
+	Query: "mvz 1279" ; Times: 1
+	Query: "&#34;Campylorhynchus fasciatus&#34; OR &#34;Heleodytes fasciatus&#34; OR &#34;Furnarius fasciatus&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Icterus graceannae&#34; OR &#34;Leucippus baeri&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Myrmia micrura&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34;" ; Times: 1
+	Query: "Serpophaga subcristata argentina" ; Times: 1
+	Query: "furnarius" ; Times: 1
+	Query: "&#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Leucippus baeri&#34; OR &#34;Myrmia micrura&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Icterus graceannae&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Campylorhynchus fasciatus&#34; OR &#34;Heleodytes fasciatus&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Furnarius fasciatus&#34; class:Aves" ; Times: 1
+	Query: "Columbiformes &#34;costa rica&#34; mappable:1" ; Times: 1
+	Query: "mvz 3607" ; Times: 1
+	Query: "corvus continent:indies" ; Times: 1
+	Query: "&#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Leucippus baeri&#34; OR &#34;Myrmia micrura&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Icterus graceannae&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Campylorhynchus fasciatus&#34; OR &#34;Heleodytes fasciatus&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Furnarius fasciatus&#34;" ; Times: 2
+	Query: "turdus migratorius type:observation" ; Times: 1
+	Query: "Pitangus sulphuratus argentina" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "zenaida auriculata" ; Times: 3
+	Query: "Campylorhynchus fasciatus OR &#34;Heleodytes fasciatus&#34; OR &#34;Furnarius fasciatus&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Icterus graceannae&#34; OR &#34;Leucippus baeri&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Myrmia micrura&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "dinosaur" ; Times: 1
+	Query: "sedentarius mappable:1" ; Times: 1
+	Query: "mvz 1278" ; Times: 1
+	Query: "mvz 2779" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 507 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
