@@ -1,0 +1,68 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 587
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 11
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dziadosz leptotila verreauxi country:&#34;Paraguay&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "Dziadosz furnarius rufus country:&#34;Paraguay&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 1
+	Query: "xiphorhynchus fuscus mappable:1" ; Times: 2
+	Query: "Dziadosz turdus rufiventris country:&#34;Paraguay&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 1
+	Query: "locality:Calilegua country:&#34;Argentina&#34;" ; Times: 1
+	Query: "locality:Ruta Nacional 12 country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "Dziadosz country:&#34;Paraguay&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 3
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "Dziadosz basileuterus culicivorus country:&#34;Paraguay&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 1
+	Query: "Dziadosz cyanocorax chrysops country:&#34;Paraguay&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 1
+	Query: "Dziadosz" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 230 download events in this period)
+Total number of records downloaded: 254
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "Dziadosz country:&#34;Paraguay&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+
+
+End of report.
