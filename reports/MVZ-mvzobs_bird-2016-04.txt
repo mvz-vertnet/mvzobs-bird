@@ -1,0 +1,85 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 200
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 13
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Monkey" ; Times: 1
+	Query: "class:aves county:&#34;alger&#34; stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Tumbezia salvini" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.297516))&lt;15000" ; Times: 1
+	Query: "locality:Berkeley campus" ; Times: 2
+	Query: "county:&#34;Glenn&#34;" ; Times: 1
+	Query: "MVZ 4127" ; Times: 1
+	Query: "Corvus AND Island" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "mimus saturninus" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.447516))&lt;15000" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.297516))&lt;15000" ; Times: 1
+	Query: "violacea" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Monkey media:1" ; Times: 1
+	Query: "Strix occidentalis chihuahua" ; Times: 2
+	Query: "distance(location,geopoint(21.439036,-105.027516))&lt;15000" ; Times: 8
+	Query: "selasphorus platycercus" ; Times: 3
+	Query: "stictothorax" ; Times: 1
+	Query: "Trogon surrucura" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.277516))&lt;15000" ; Times: 1
+	Query: "cinereiventris" ; Times: 1
+	Query: "euscarthmus meloryphus" ; Times: 2
+	Query: "Corvus AND Island AND California" ; Times: 2
+	Query: "Otus choliba" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1312 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "selasphorus platycercus" ; Times: 1
+
+
+End of report.
