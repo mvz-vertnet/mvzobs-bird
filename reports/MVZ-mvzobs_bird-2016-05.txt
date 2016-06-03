@@ -1,0 +1,64 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aegolius acadicus AND Santa Catalina Island" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 1
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "recordings" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "Vireo huttoni" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 327 download events in this period)
+Total number of records downloaded: 2225
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Japan ; Times: 1
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaea" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
