@@ -1,0 +1,91 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 628
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 14
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;)" ; Times: 1
+	Query: "diuca" ; Times: 2
+	Query: "Field AND Santa Catalina Island NOT 1967 NOT 1995 NOT Philippines NOT Fish" ; Times: 1
+	Query: "Field AND Santa Catalina Island NOT Philippines NOT Fish" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "basileuterus culicivorus" ; Times: 14
+	Query: "selasphorus sasin institutioncode:MVZ" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "Field AND Santa Catalina Island" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Field AND Santa Catalina Island NOT Philippines" ; Times: 1
+	Query: "basileuterus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "2083" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Field AND Santa Catalina Island NOT 1995 NOT Philippines NOT Fish" ; Times: 1
+	Query: "Pitangus" ; Times: 1
+	Query: "(&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;) mappable:1" ; Times: 2
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "genus: aegolius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1052 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+
+
+End of report.
