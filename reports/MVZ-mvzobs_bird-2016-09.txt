@@ -1,0 +1,91 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Poland ; Times: 1
+	Country: Colombia ; Times: 13
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 5
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-10 ; Times: 4
+	Date: 2016-09-08 ; Times: 7
+	Date: 2016-09-09 ; Times: 7
+	Date: 2016-09-22 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "progne chalybea" ; Times: 2
+	Query: "Eugenes fulgens 1" ; Times: 1
+	Query: "Junco hyemalis 1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "Carduelis carduelis 1" ; Times: 2
+	Query: "class:Aves coordinateuncertaintyinmeters&lt;25 stateprovince:Nevada" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Selasphorus platycercus 1" ; Times: 1
+	Query: "Trogon elegans" ; Times: 1
+	Query: "snake media:1" ; Times: 2
+	Query: "Geopelia striata 1" ; Times: 2
+	Query: "Furnarius rufus 1" ; Times: 1
+	Query: "progne chalybea continent:america" ; Times: 1
+	Query: "Hylocharis leucotis 1" ; Times: 1
+	Query: "Carduelis tristis 1" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Callipepla californica 1" ; Times: 3
+	Query: "gallus" ; Times: 1
+	Query: "progne chalybea continent:America mappable:1" ; Times: 1
+	Query: "Selasphorus rufus 1" ; Times: 1
+	Query: "Acridotheres tristis 1" ; Times: 2
+	Query: "Vermivora celata year &gt;= 1980" ; Times: 2
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "Accipiter cooperii 1" ; Times: 2
+	Query: "Chaetura cinereiventris continent:America mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 811 download events in this period)
+Total number of records downloaded: 65
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Thailand ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vermivora celata year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Sitta canadensis year &gt;= 1980" ; Times: 1
+	Query: "locality:La Paz stateprovince:&#34;Entre rios&#34; country:&#34;argentina&#34;" ; Times: 1
+	Query: "Chaetura cinereiventris continent:America mappable:1" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "progne chalybea continent:america" ; Times: 1
+	Query: "Vireo solitarius year &gt;= 1980" ; Times: 1
+
+
+End of report.
