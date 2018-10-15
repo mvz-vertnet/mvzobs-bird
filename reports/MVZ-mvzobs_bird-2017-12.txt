@@ -1,0 +1,70 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 384
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Paraguay ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-07 ; Times: 7
+	Date: 2017-12-01 ; Times: 7
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Yellow-green Vireo sex:male" ; Times: 1
+	Query: "Aves paraguay" ; Times: 2
+	Query: "specificepithet:jocosus genus:pycnonotus" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "lake trout" ; Times: 1
+	Query: "Yellow-green Vireo" ; Times: 5
+	Query: "Aves Paraguay" ; Times: 3
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Chickadee" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "Rhynchotus" ; Times: 1
+	Query: "river otter" ; Times: 5
+	Query: "class:aves (mono i.)" ; Times: 2
+	Query: "catalognumber:642" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 674 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aves Paraguay" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+
+
+End of report.
