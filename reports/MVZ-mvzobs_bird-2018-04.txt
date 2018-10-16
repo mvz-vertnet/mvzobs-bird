@@ -1,0 +1,93 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 199
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Canada ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-02 ; Times: 8
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-30 ; Times: 7
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 8
+	Date: 2018-04-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "vireo bellii stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2018 islandgroup:&#34;Channel Islands&#34;" ; Times: 1
+	Query: "lampornis clemenciae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "MVZ 5868" ; Times: 1
+	Query: "cistothorus palustris" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "catalognumber:797 institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves coordinateuncertaintyinmeters&lt;25 stateprovince:Nevada" ; Times: 2
+	Query: "class:Aves islandgroup:&#34;Channel Islands&#34;" ; Times: 1
+	Query: "MVZ 2337" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:677 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 5668" ; Times: 1
+	Query: "Melanerpes radiolatus" ; Times: 2
+	Query: "hylocharis leucotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:oberholseri genus:Empidonax mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:americana genus:Fulica mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 3
+	Query: "Aphelocoma coerulescens institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2018 islandgroup:Channel Islands island:Santa Barbara" ; Times: 1
+	Query: "junco phaeonotus stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "coccothraustes vespertinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "melanerpes radiolatus" ; Times: 1
+	Query: "zenaida auriculata" ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:nigrescens genus:Dendroica institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 3
+	Query: "eugenes fulgens stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "specificepithet:coronata genus:Dendroica mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:oberholseri genus:Empidonax stateprovince:California institutioncode:MVZ" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1359 download events in this period)
+Total number of records downloaded: 136
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo institutioncode:MVZ" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+
+
+End of report.
