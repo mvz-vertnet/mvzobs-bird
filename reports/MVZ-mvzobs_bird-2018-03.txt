@@ -1,0 +1,122 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 511
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 66
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 4
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-27 ; Times: 11
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 30
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 6
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:oberholseri genus:Empidonax institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:cassinii genus:Carpodacus institutioncode:MVZ" ; Times: 1
+	Query: "nana jamaica" ; Times: 2
+	Query: "zosterops japonicus" ; Times: 3
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "catalognumber:3989 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:3004 institutioncode:MVZ" ; Times: 1
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "Myiopsitta monachus " ; Times: 2
+	Query: "specificepithet:hammondii genus:Empidonax institutioncode:MVZ" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "Tapera" ; Times: 1
+	Query: "genus:Piaya country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "aimophila ruficeps institutioncode:MVZ" ; Times: 1
+	Query: "Myadestes townsendi institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia institutioncode:MVZ" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Amazona collaria" ; Times: 6
+	Query: "Melanerpes radiolatus" ; Times: 2
+	Query: "mvz birds" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:California institutioncode:MVZ" ; Times: 3
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 5
+	Query: "catalognumber:703 institutioncode:MVZ" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 2
+	Query: "specificepithet:gambeli genus:Poecile institutioncode:MVZ" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "genus:Tyto specificepithet:alba" ; Times: 2
+	Query: "genus:chamaeza" ; Times: 1
+	Query: "Aratinga nana" ; Times: 1
+	Query: "specificepithet:pygmaea genus:Sitta institutioncode:MVZ" ; Times: 1
+	Query: "Empidonax oberholseri institutioncode:MVZ" ; Times: 1
+	Query: "rucker canyon" ; Times: 1
+	Query: "Aratinga nana Jamaica" ; Times: 1
+	Query: "specificepithet:leucurus genus:Elanus year &gt;= 1920 year &lt;= 2018" ; Times: 1
+	Query: "coronata institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:oberholseri genus:Empidonax stateprovince:California institutioncode:MVZ" ; Times: 12
+	Query: "specificepithet:oberholseri genus:Empidonax stateprovince:California" ; Times: 1
+	Query: "genus:Selasphorus specificepithet:rufus" ; Times: 5
+	Query: "empidonax alnorum" ; Times: 1
+	Query: "crissalis institutioncode:MVZ" ; Times: 1
+	Query: "psarocolius angustifrons" ; Times: 1
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+	Query: "genus:Gallus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1284 download events in this period)
+Total number of records downloaded: 184
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 6
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 2
+	Query: "Empidonax hammondii institutioncode:MVZ" ; Times: 1
+	Query: "coronata institutioncode:MVZ" ; Times: 1
+	Query: "Myadestes townsendi institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "Aves 2010" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "psarocolius angustifrons" ; Times: 1
+	Query: "Empidonax oberholseri institutioncode:MVZ" ; Times: 1
+
+
+End of report.
