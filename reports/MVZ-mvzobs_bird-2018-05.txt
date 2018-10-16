@@ -1,0 +1,123 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 153
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 42
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 18
+	Date: 2018-05-05 ; Times: 28
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:monachus genus:Myiopsitta mappable:1" ; Times: 1
+	Query: "specificepithet:plumbea genus:Polioptila" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus" ; Times: 1
+	Query: "specificepithet:brissonii genus:Cyanocompsa" ; Times: 1
+	Query: "specificepithet:cayanensis genus:Icterus" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Thamnophilus" ; Times: 1
+	Query: "class:aves catalognumber:1593 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:1593 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:decumanus genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:linearis genus:Chiroxiphia" ; Times: 1
+	Query: "specificepithet:salvini genus:Tumbezia" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Coryphospingus" ; Times: 1
+	Query: "specificepithet:dumicola genus:Polioptila" ; Times: 1
+	Query: "specificepithet:ultramarina genus:Aphelocoma" ; Times: 1
+	Query: "vntype:observation specificepithet:traillii genus:Empidonax" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes" ; Times: 1
+	Query: "Vireo griseus" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "class:aves catalognumber:41 institutioncode:MVZ" ; Times: 1
+	Query: "panther" ; Times: 1
+	Query: "specificepithet:gujanensis genus:Cyclarhis" ; Times: 1
+	Query: "vocalizations" ; Times: 2
+	Query: "specificepithet:stictothorax genus:Synallaxis" ; Times: 1
+	Query: "genus:Chamaeza" ; Times: 1
+	Query: "specificepithet:campanisona genus:Chamaeza" ; Times: 1
+	Query: "specificepithet:saturninus genus:Mimus" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:Thryothorus" ; Times: 1
+	Query: "(monkey) hasmedia:1" ; Times: 4
+	Query: "specificepithet:leucospodia genus:Pseudelaenia" ; Times: 1
+	Query: "specificepithet:rufus genus:Furnarius" ; Times: 1
+	Query: "specificepithet:averano genus:Procnias" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tiaris" ; Times: 1
+	Query: "specificepithet:chopi genus:Gnorimopsar" ; Times: 1
+	Query: "specificepithet:superciliosa genus:Parula" ; Times: 1
+	Query: "specificepithet:flaveola genus:Capsiempis" ; Times: 1
+	Query: "specificepithet:chrysops genus:Cyanocorax" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "specificepithet:angustifrons genus:Psarocolius" ; Times: 1
+	Query: "stateprovince:&#34;tabasco&#34; country:&#34;Mexico&#34; continent:america" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 1
+	Query: "specificepithet:jocosus genus:Pycnonotus mappable:1" ; Times: 1
+	Query: "specificepithet:americana genus:Fulica mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:formosa genus:Calocitta" ; Times: 1
+	Query: "specificepithet:vespertinus genus:Coccothraustes" ; Times: 1
+	Query: "Tyrannus caudifasciatus" ; Times: 1
+	Query: "specificepithet:flavescens genus:Empidonax" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco institutioncode:MVZ" ; Times: 1
+	Query: "tabasco" ; Times: 3
+	Query: "specificepithet:fasciatus genus:Campylorhynchus" ; Times: 1
+	Query: "specificepithet:pitiayumi genus:Parula" ; Times: 1
+	Query: "specificepithet:superciliaris genus:Thryothorus" ; Times: 1
+	Query: "specificepithet:pygmaea genus:Sitta" ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "pine snake" ; Times: 1
+	Query: "specificepithet:melanops genus:Trichothraupis" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:mentalis genus:Dysithamnus" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 2
+	Query: "specificepithet:flaveola genus:Sicalis" ; Times: 1
+	Query: "specificepithet:violacea genus:Euphonia" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "specificepithet:rufiventris genus:Turdus" ; Times: 1
+	Query: "specificepithet:rufinucha genus:Campylorhynchus" ; Times: 1
+	Query: "specificepithet:magellanica genus:Carduelis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1178 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tyrannus caudifasciatus" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+
+
+End of report.
