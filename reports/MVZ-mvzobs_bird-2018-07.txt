@@ -1,0 +1,143 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 340
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 72
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-24 ; Times: 64
+	Date: 2018-07-25 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Daptrius ater mappable:1" ; Times: 1
+	Query: "Progne chalybea mappable:1" ; Times: 1
+	Query: "Contopus cooperi mappable:1" ; Times: 1
+	Query: "Myiodynastes luteiventris mappable:1" ; Times: 1
+	Query: "Camptostoma obsoletum mappable:1" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 1
+	Query: "Polioptila plumbea mappable:1" ; Times: 1
+	Query: "Coryphospingus cucullatus mappable:1" ; Times: 1
+	Query: "(badius)" ; Times: 1
+	Query: "Chaetura cinereiventris mappable:1" ; Times: 1
+	Query: "Melanerpes candidus mappable:1" ; Times: 1
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 1
+	Query: "Psarocolius decumanus mappable:1" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 2
+	Query: "Synallaxis stictothorax mappable:1" ; Times: 1
+	Query: "vntype:observation stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "pachyrhyncha" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "suiriri" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "chickadee" ; Times: 2
+	Query: "aves 7892" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 2
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 2
+	Query: "Nyctidromus albicollis mappable:1" ; Times: 1
+	Query: "Molothrus bonariensis mappable:1" ; Times: 1
+	Query: "Phaeomyias murina mappable:1" ; Times: 1
+	Query: "2796 aves" ; Times: 1
+	Query: "Campylorhynchus fasciatus mappable:1" ; Times: 1
+	Query: "Empidonax alnorum mappable:1" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "Pteroglossus castanotis mappable:1" ; Times: 1
+	Query: "Cacicus solitarius mappable:1" ; Times: 1
+	Query: "Cnemotriccus fuscatus mappable:1" ; Times: 1
+	Query: "Tachycineta leucorrhoa mappable:1" ; Times: 1
+	Query: "Chauna torquata" ; Times: 2
+	Query: "Piaya cayana mappable:1" ; Times: 1
+	Query: "3704 aves" ; Times: 1
+	Query: "Zenaida auriculata mappable:1" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 1
+	Query: "Cyclarhis gujanensis mappable:1" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Pseudelaenia leucospodia mappable:1" ; Times: 1
+	Query: "Capsiempis flaveola mappable:1" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "Crotophaga ani mappable:1" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 2
+	Query: "Lathrotriccus euleri mappable:1" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "Chauna torquata mappable:1" ; Times: 1
+	Query: "Psarocolius angustifrons mappable:1" ; Times: 1
+	Query: "Thamnophilus caerulescens mappable:1" ; Times: 1
+	Query: "Pitangus sulphuratus mappable:1" ; Times: 1
+	Query: "Trichothraupis melanops mappable:1" ; Times: 1
+	Query: "Chamaeza campanisona mappable:1" ; Times: 1
+	Query: "Columbina picui" ; Times: 2
+	Query: "Ciccaba virgata mappable:1" ; Times: 1
+	Query: "740 aves" ; Times: 1
+	Query: "Sicalis luteola mappable:1" ; Times: 1
+	Query: "Gnorimopsar chopi mappable:1" ; Times: 1
+	Query: "Euscarthmus meloryphus mappable:1" ; Times: 1
+	Query: "Tapera naevia mappable:1" ; Times: 1
+	Query: "Hemithraupis guira mappable:1" ; Times: 1
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "Zonotrichia capensis mappable:1" ; Times: 1
+	Query: "Columbina picui mappable:1" ; Times: 1
+	Query: "Vireo altiloquus mappable:1" ; Times: 1
+	Query: "Tersina viridis mappable:1" ; Times: 1
+	Query: "Crotophaga ani" ; Times: 1
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 2
+	Query: "Trogon rufus mappable:1" ; Times: 1
+	Query: "Coereba flaveola mappable:1" ; Times: 1
+	Query: "Glaucidium brasilianum mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 977 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "vntype:observation continent:Asia" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "point reyes national seashore" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+
+
+End of report.
