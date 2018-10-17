@@ -1,0 +1,104 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 396
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 13
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-24 ; Times: 7
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-18 ; Times: 5
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-12 ; Times: 3
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Fraga" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "Picumnus" ; Times: 1
+	Query: "vntype:observation AND (museum)" ; Times: 2
+	Query: "35625" ; Times: 1
+	Query: "Aphelocoma insularis 1927" ; Times: 1
+	Query: "Loxops virens" ; Times: 2
+	Query: "catalognumber:2776 institutioncode:MVZ" ; Times: 2
+	Query: "Aphelocoma insularis" ; Times: 4
+	Query: "catalognumber:2773 institutioncode:MVZ" ; Times: 2
+	Query: "fulmar" ; Times: 1
+	Query: "catalognumber:112 institutioncode:MVZ" ; Times: 2
+	Query: "catalognumber:3800 institutioncode:MVZ" ; Times: 2
+	Query: "catalognumber:3607 institutioncode:MVZ" ; Times: 3
+	Query: "V 1128" ; Times: 1
+	Query: "MVZ 239350" ; Times: 1
+	Query: "V-1128" ; Times: 1
+	Query: "hasmedia:1 &#34;corvus corax&#34;" ; Times: 3
+	Query: "Scytalopus magellanicus" ; Times: 2
+	Query: "catalognumber:2778 institutioncode:MVZ" ; Times: 2
+	Query: "catalognumber:3818 institutioncode:MVZ" ; Times: 2
+	Query: "locality:San Felasco county:&#34;Alachua&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "catalognumber:2782 institutioncode:MVZ" ; Times: 2
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "catalognumber:317 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:graciae genus:Dendroica" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 3
+	Query: "specificepithet:alba genus:tyto institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1416 download events in this period)
+Total number of records downloaded: 137
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 3
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Loxops virens" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 2
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+
+
+End of report.
