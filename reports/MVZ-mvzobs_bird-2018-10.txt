@@ -1,0 +1,87 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 198
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 11
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-30 ; Times: 9
+	Date: 2018-10-20 ; Times: 4
+	Date: 2018-10-26 ; Times: 8
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-12 ; Times: 5
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mvz 8497" ; Times: 1
+	Query: "tyrannidae country:&#34;Argentina&#34;" ; Times: 1
+	Query: "co 2932" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 2
+	Query: "California Santa Cruz County pipilo maculatus" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "titmouse" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34; year &gt;= 1880 year &lt;= 1970" ; Times: 2
+	Query: "catalognumber:4371 institutioncode:MVZ" ; Times: 2
+	Query: "thraupidae" ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "recordedby:Keith Dixon" ; Times: 2
+	Query: "class:Aves recordedby:Keith L. Dixon" ; Times: 1
+	Query: "recordedby:Dixon Keith L." ; Times: 1
+	Query: "american badger" ; Times: 1
+	Query: "recordedby:&#34;Keith L. Dixon&#34;" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 7
+	Query: "campephilus" ; Times: 1
+	Query: "genus:Baeolophus recordedby:&#34;Keith L. Dixon&#34;" ; Times: 1
+	Query: "Pseudelaenia leucospodia" ; Times: 3
+	Query: "recordedby:bates" ; Times: 1
+	Query: "Shasta County pipilo maculatus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 3
+	Query: "River otter" ; Times: 1
+	Query: "recordedby:Keith L. Dixon" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1300 download events in this period)
+Total number of records downloaded: 28
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
