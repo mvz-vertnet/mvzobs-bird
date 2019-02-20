@@ -1,0 +1,115 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 324
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 26
+	Country: Sweden ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 19
+	Country: Paraguay ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-28 ; Times: 7
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 6
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-11 ; Times: 6
+	Date: 2019-01-27 ; Times: 14
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-23 ; Times: 5
+	Date: 2019-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xiphorhynchus fuscus mappable:1" ; Times: 6
+	Query: "class:aves recordedby:john davis institutioncode:MVZ" ; Times: 1
+	Query: "Megascops roboratus" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "catalognumber:4112 institutioncode:MVZ" ; Times: 2
+	Query: "vntype:observation basisofrecord:HumanObservation" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 5
+	Query: "family:Trochilidae country:&#34;Paraguay&#34;" ; Times: 4
+	Query: "catalognumber:4102 institutioncode:MVZ" ; Times: 2
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Sitta county:&#34;Crook&#34;" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "Tinamiformes" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "thamnophilus caerulescens caerulescens year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Thamnophilus caerulescens" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "catalognumber:4104 institutioncode:MVZ" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "catalognumber:4111 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:4105 institutioncode:MVZ" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "catalognumber:4114 institutioncode:MVZ" ; Times: 2
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "MVZ 7857" ; Times: 2
+	Query: "3464" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "thamnophilus caerulescens" ; Times: 1
+	Query: "Daptrius ater" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "PICUMNUS" ; Times: 1
+	Query: "Crotophaga ani" ; Times: 1
+	Query: "catalognumber:4117 institutioncode:MVZ" ; Times: 2
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "inornatus cedar" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sitta institutioncode:MVZ" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 962 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:canadensis genus:Sitta county:&#34;Crook&#34;" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sitta institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+
+
+End of report.
