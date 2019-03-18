@@ -1,0 +1,178 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 635
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 20
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 30
+	Country: Colombia ; Times: 3
+	Country: Paraguay ; Times: 65
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-04 ; Times: 8
+	Date: 2019-02-18 ; Times: 12
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-13 ; Times: 23
+	Date: 2019-02-22 ; Times: 6
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 20
+	Date: 2019-02-26 ; Times: 19
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-12 ; Times: 12
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 5
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-15 ; Times: 6
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:GUIRA family:CUCULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 2
+	Query: "specificepithet:EULERI family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:PITANGUS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 2
+	Query: "genus:MYIODYNASTES family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:RUFICAPILLA family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "family:trogonidae country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:CHOLIBA family:STRIGIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Synallaxis stictothorax" ; Times: 1
+	Query: "specificepithet:PITIAYUMI family:PARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 2
+	Query: "family:APODIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:CYCLARHIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:STEPHANOXIS family:TROCHILIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Sitta carolinensis nelsoni mappable:1" ; Times: 1
+	Query: "genus:TRICHOTHRAUPIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:CHOPI family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:tersina country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:NYCTIDROMUS family:CAPRIMULGIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:PYRRHOPTERUS family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "specificepithet:ROBUSTUS family:PICIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Trogon rufus mappable:1" ; Times: 2
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "Callipepla californica brunnescens mappable:1" ; Times: 1
+	Query: "specificepithet:CHILENSIS family:CHARADRIIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "genus:CYANOCORAX country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:RUFUS genus:FURNARIUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Vireo bellii arizonae mappable:1" ; Times: 3
+	Query: "turdus leucomelas" ; Times: 2
+	Query: "genus:PROGNE family:HIRUNDINIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:CHAMAEZA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; genus:Buteo specificepithet:jamaicensis" ; Times: 1
+	Query: "Capsiempis flaveola" ; Times: 1
+	Query: "genus:leptotila family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2019 basisofrecord:HumanObservation" ; Times: 1
+	Query: "genus:piaya family:CUCULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:TROGLODYTES family:TROGLODYTIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:CHIROXIPHIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:CAPSIEMPIS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 2
+	Query: "specificepithet:LEUCOPTERA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:SPILOGASTER country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:RUFICEPS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:COLAPTES family:PICIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Baeolophus ridgwayi" ; Times: 1
+	Query: "specificepithet:SAYACA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:SPIXI family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Toxostoma lecontei lecontei mappable:1" ; Times: 1
+	Query: "genus:PYRIGLENA family:THAMNOPHILIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:picui family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:chalybea family:HIRUNDINIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:LEUCOBLEPHARA family:PARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Megascops roboratus" ; Times: 8
+	Query: "specificepithet:HAEMORRHOUS family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "county:&#34;kinney&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Certhia americana albescens mappable:1" ; Times: 1
+	Query: "rhynchotus" ; Times: 1
+	Query: "specificepithet:MENTALIS family:THAMNOPHILIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 2
+	Query: "genus:XIPHOrhynchus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Trogon surrucura mappable:1" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Pitangus sulphuratus  mappable:1" ; Times: 1
+	Query: "genus:ZONOTRICHIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Melozone crissalis crissalis mappable:1" ; Times: 1
+	Query: "Cyclarhis gujanensis mappable:1" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Melozone crissalis petulans mappable:1" ; Times: 1
+	Query: "Vireo bellii mappable:1" ; Times: 3
+	Query: "genus:CONOPOPHAGA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Toxostoma curvirostre celsum mappable:1" ; Times: 1
+	Query: "specificepithet:VIOLACEA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:VIREO country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:CHALYBEA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 2
+	Query: "genus:CROTOPHAGA family:CUCULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:CAERULESCENS family:THAMNOPHILIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:leucomelas family:turdidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:CINERASCENS family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Corvus corax sinuatus mappable:1" ; Times: 1
+	Query: "specificepithet:rufiventris family:turdidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:rufus family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "nothura" ; Times: 1
+	Query: "genus:CORYPHOSPINGUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:GLAUCIDIUM family:STRIGIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:TYRANNUS family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "specificepithet:GUIRA family:THRAUPIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:MELANERPES country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:amaurochalinus family:turdidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:CROTOPHAGA country:&#34;Paraguay&#34;" ; Times: 3
+	Query: "specificepithet:CASTANOTIS family:RAMPHASTIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo year &gt;= 2007 year &lt;= 2009" ; Times: 1
+	Query: "hemignathus wilsoni" ; Times: 3
+	Query: "genus:PICUMNUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Euphonia violacea mappable:1" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Vireo bellii bellii mappable:1" ; Times: 3
+	Query: "specificepithet:CULICIVORUS family:PARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Sitta carolinensis tenuissima mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1227 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Megascops roboratus" ; Times: 2
+	Query: "hemignathus wilsoni" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
