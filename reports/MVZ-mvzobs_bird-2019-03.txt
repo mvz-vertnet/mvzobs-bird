@@ -1,0 +1,98 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 363
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 21
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 6
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-17 ; Times: 5
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-12 ; Times: 5
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Icterus pyrrhopterus" ; Times: 5
+	Query: "catalognumber:134 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Chickadee" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "Vanellus chilensis mappable:1" ; Times: 1
+	Query: "MVZ-3277" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "Xiphorhynchus fuscus mappable:1" ; Times: 1
+	Query: "megascops roboratus" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 2
+	Query: "genus:Zosterops institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:2733 institutioncode:MVZ" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "MVZ-7243" ; Times: 1
+	Query: "Milvago chimango mappable:1" ; Times: 1
+	Query: "glaucidium gnoma basisofrecord:HumanObservation" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "MVZ 7968" ; Times: 1
+	Query: "Cacicus solitarius" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "MVZ 2733" ; Times: 1
+	Query: "glaucidium gnoma vntype:observation" ; Times: 1
+	Query: "specificepithet:chalybea country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:vireo recordedby:cicero" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 1
+	Query: "catalognumber:1832 institutioncode:MVZ" ; Times: 2
+	Query: "Poecile rufescens" ; Times: 1
+	Query: "AVES basisofrecord:HumanObservation" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1281 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Icterus pyrrhopterus" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "Cacicus solitarius" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+
+
+End of report.
