@@ -1,0 +1,96 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 384
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 23
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-23 ; Times: 5
+	Date: 2019-05-22 ; Times: 8
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-29 ; Times: 4
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-02 ; Times: 3
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-05 ; Times: 5
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "quercus" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "spixi" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 2
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "nana Jamaica" ; Times: 2
+	Query: "Furnarius rufus mappable:1" ; Times: 2
+	Query: "Rhynchopsitta pachyrhyncha United States" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 3
+	Query: "specificepithet:occidentalis genus:Empidonax stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 10
+	Query: "selasphorus calliope" ; Times: 1
+	Query: "zonotrichia capensis subtorquata" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "MVZ 8536" ; Times: 1
+	Query: "vntype:observation year &gt;= 1950 year &lt;= 2019 basisofrecord:HumanObservation" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 5
+	Query: "cyclarhis gujanensis" ; Times: 5
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "psarocolius angustifrons" ; Times: 1
+	Query: "specificepithet:alba genus:tyto country:&#34;mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "class:aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "selasphorus calliope" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "specificepithet:alba genus:tyto country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
