@@ -1,0 +1,121 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 470
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 54
+	Country: Chile ; Times: 1
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 3
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-05 ; Times: 7
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 2
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-09 ; Times: 3
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 6
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 20
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-10 ; Times: 5
+	Date: 2019-06-13 ; Times: 3
+	Date: 2019-06-29 ; Times: 3
+	Date: 2019-06-24 ; Times: 4
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sphyrapicus" ; Times: 1
+	Query: "locality:Parque Nacional El Palmar country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Chiroxiphia caudata" ; Times: 1
+	Query: "genus:Rhynchopsitta specificepithet:pachyrhyncha" ; Times: 1
+	Query: "genus:Coereba" ; Times: 1
+	Query: "genus:Aegolius specificepithet:acadicus" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 2
+	Query: "xiphorhynchus fuscus" ; Times: 1
+	Query: "vntype:observation basisofrecord:HumanObservation" ; Times: 2
+	Query: "genus:Selasphorus specificepithet:rufus" ; Times: 1
+	Query: "river otter" ; Times: 2
+	Query: "genus:cyanocompsa country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Melanerpes specificepithet:carolinus" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "MEGASCOPS CHOLIBA" ; Times: 2
+	Query: "genus:Glaucidium specificepithet:brasilianum" ; Times: 1
+	Query: "daptrius" ; Times: 1
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 1
+	Query: "zosterops japonicus stateprovince:&#34;Hawaii&#34;" ; Times: 6
+	Query: "genus:Caprimulgus specificepithet:vociferus" ; Times: 1
+	Query: "family:Caprimulgidae country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Furnarius specificepithet:rufus" ; Times: 1
+	Query: "ramsey canyon" ; Times: 3
+	Query: "specificepithet:occidentalis genus:Strix mappable:1" ; Times: 2
+	Query: "specificepithet:rufus genus:Trogon country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Psaltriparus specificepithet:minimus" ; Times: 1
+	Query: "genus:Tyto" ; Times: 1
+	Query: "genus:Pinicola specificepithet:enucleator" ; Times: 1
+	Query: "genus:Calocitta specificepithet:formosa" ; Times: 1
+	Query: "horton class:aves" ; Times: 1
+	Query: "Amazona collaria" ; Times: 1
+	Query: "genus:Spinus specificepithet:psaltria" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 4
+	Query: "Tennessee basisofrecord:HumanObservation" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Basileuterus culicivorus" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 9
+	Query: "Myiopsitta monachus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Ixoreus specificepithet:naevius" ; Times: 1
+	Query: "genus:Bubo" ; Times: 1
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1182 download events in this period)
+Total number of records downloaded: 215
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 5
+	Date: 2019-06-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "river otter" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "corvus" ; Times: 1
+	Query: "Trochilidae" ; Times: 1
+	Query: "Chiroxiphia caudata" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "beaver" ; Times: 9
+	Query: "BEAVER" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "strigiformes" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 1
+
+
+End of report.
