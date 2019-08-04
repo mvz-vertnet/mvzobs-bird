@@ -1,0 +1,106 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 558
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 31
+	Country: Denmark ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 17
+	Country: Belgium ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-12 ; Times: 25
+	Date: 2019-07-05 ; Times: 6
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-16 ; Times: 4
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:62ad511d-d298-4fd7-80e7-f5d5bd32299e" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "Spinus magellanicus mappable:1" ; Times: 3
+	Query: "Molothrus rufoaxillaris mappable:1" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "Coryphospingus cucullatus mappable:1" ; Times: 1
+	Query: "Desatoya" ; Times: 2
+	Query: "Tapera naevia mappable:1" ; Times: 4
+	Query: "Corvus jamaicensis" ; Times: 1
+	Query: "Molothrus bonariensis mappable:1" ; Times: 1
+	Query: "Strix occidentalis lucida mappable:1" ; Times: 2
+	Query: "Icterus cayanensis mappable:1" ; Times: 2
+	Query: "Pteroglossus castanotis mappable:1" ; Times: 1
+	Query: "Turdus migratorius AND Catalina" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 2
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "Aratinga nana mappable:1" ; Times: 1
+	Query: "Santa Cruz Island Reserve" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 1
+	Query: "Thraupis sayaca mappable:1" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "specificepithet:haemorrhous country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Molothrus badius mappable:1" ; Times: 1
+	Query: "Trichothraupis melanops mappable:1" ; Times: 1
+	Query: "megascops marshall" ; Times: 1
+	Query: "Euphonia violacea mappable:1" ; Times: 1
+	Query: "Amazona agilis" ; Times: 2
+	Query: "Gnorimopsar chopi mappable:1" ; Times: 1
+	Query: "Cacicus solitarius mappable:1" ; Times: 1
+	Query: "Sicalis luteola mappable:1" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 1
+	Query: "Psarocolius decumanus mappable:1" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens mappable:1" ; Times: 1
+	Query: "Groth genus:Loxia" ; Times: 2
+	Query: "Mango" ; Times: 1
+	Query: "Tersina viridis mappable:1" ; Times: 1
+	Query: "Sicalis flaveola pelzelni mappable:1" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 985 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "Corvus jamaicensis" ; Times: 1
+
+
+End of report.
