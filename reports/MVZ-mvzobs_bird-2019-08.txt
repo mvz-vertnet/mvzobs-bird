@@ -1,0 +1,214 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 191
+Number of records retrieved in searches: 842
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 65
+	Country: Peru ; Times: 85
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 22
+	Country: Colombia ; Times: 3
+	Country: Greece ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-08 ; Times: 8
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 23
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 7
+	Date: 2019-08-20 ; Times: 5
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 11
+	Date: 2019-08-14 ; Times: 85
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-12 ; Times: 5
+	Date: 2019-08-11 ; Times: 2
+	Date: 2019-08-30 ; Times: 16
+	Date: 2019-08-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Veniliornis spilogaster" ; Times: 1
+	Query: "Icterus pyrrhopterus" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Campephilus robustus" ; Times: 1
+	Query: "Chroicocephalus maculipennis" ; Times: 1
+	Query: "Picumnus temminckii" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 1
+	Query: "Curaeus curaeus" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 2
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "142824" ; Times: 3
+	Query: "Cacicus haemorrhous" ; Times: 1
+	Query: "Melospiza lincolnii" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "hendrys creek" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Patagioenas leucocephala" ; Times: 2
+	Query: "Guira guira" ; Times: 1
+	Query: "Monachus monachus" ; Times: 1
+	Query: "Spinus psaltria" ; Times: 2
+	Query: "Buteo jamaicensis" ; Times: 1
+	Query: "Megascops roboratus" ; Times: 1
+	Query: "Elaenia frantzii" ; Times: 1
+	Query: "Synallaxis cinerascens" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 15
+	Query: "Turdus falcklandii" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 5
+	Query: "Xiphorhynchus fuscus" ; Times: 1
+	Query: "Spinus magellanicus" ; Times: 1
+	Query: "Serpophaga subcristata" ; Times: 1
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "Syrigma sibilatrix" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "Colaptes melanochloros" ; Times: 1
+	Query: "Synallaxis ruficapilla" ; Times: 2
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Gallus gallus domesticus" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "Capsiempis flaveola" ; Times: 1
+	Query: "Patagioenas picazuro" ; Times: 1
+	Query: "Theristicus caudatus" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 3
+	Query: "Tyto alba" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Patagioenas maculosa" ; Times: 1
+	Query: "Euscarthmus meloryphus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Milvago chimango" ; Times: 1
+	Query: "Quercus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "monachus monachus" ; Times: 1
+	Query: "Suiriri suiriri" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "specificepithet:virginianus OR scandiacus OR scandiaca genus:Bubo OR Nyctea institutioncode:MVZ" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "Chlorodrepanis virens" ; Times: 1
+	Query: "Turdus amaurochalinus" ; Times: 1
+	Query: "Camptostoma obsoletum" ; Times: 1
+	Query: "Drymornis bridgesii" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Fulica leucoptera" ; Times: 1
+	Query: "Turdus leucomelas" ; Times: 1
+	Query: "Synallaxis stictothorax" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "magellanicus" ; Times: 2
+	Query: "Icterus cayanensis" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "7159" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Icterus bullockii" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 12
+	Query: "Synallaxis spixi" ; Times: 1
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "Scytalopus magellanicus" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "Vireo bellii" ; Times: 3
+	Query: "Cacicus solitarius" ; Times: 4
+	Query: "agelaioides badius" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Phaeomyias murina" ; Times: 1
+	Query: "Pseudelaenia leucospodia" ; Times: 1
+	Query: "Daptrius ater" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "Antrostomus arizonae" ; Times: 2
+	Query: "Molothrus rufoaxillaris" ; Times: 1
+	Query: "Accipiter cooperii" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 3
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Pyriglena leucoptera" ; Times: 1
+	Query: "Pseudoscops clamator" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "Spinus pinus" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "county:&#34;Carson&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Anumbius annumbi" ; Times: 1
+	Query: "Trogon surrucura" ; Times: 1
+	Query: "Pheucticus melanocephalus" ; Times: 1
+	Query: "Trogon rufus" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 2
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "Psarocolius angustifrons" ; Times: 1
+	Query: "Chloephaga poliocephala" ; Times: 1
+	Query: "Setopagis parvula" ; Times: 1
+	Query: "3541" ; Times: 1
+	Query: "Euphonia violacea" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 3
+	Query: "Zonotrichia capensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1034 download events in this period)
+Total number of records downloaded: 85
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Fiji ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "passer domesticus" ; Times: 1
+	Query: "family:Accipitridae" ; Times: 1
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:virginianus OR scandiacus OR scandiaca genus:Bubo OR Nyctea institutioncode:MVZ" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Accipiter" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "junco hyemalis" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 1961 year &lt;= 1999" ; Times: 1
+	Query: "genus:Accipiter AND (NOT cooperii NOT striatus)" ; Times: 1
+
+
+End of report.
