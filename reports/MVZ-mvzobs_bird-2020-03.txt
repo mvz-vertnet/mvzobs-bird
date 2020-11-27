@@ -1,0 +1,74 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 360
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: United States ; Times: 28
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-27 ; Times: 6
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-10 ; Times: 6
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 11
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:briones regional park" ; Times: 1
+	Query: "Quercus" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "(2171) institutioncode:MVZ" ; Times: 1
+	Query: "(221280)" ; Times: 1
+	Query: "Clark sasin" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 1
+	Query: "elanus leucurus" ; Times: 4
+	Query: "zosterops japonicus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:capsiempis family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "&#34;Candelaria&#34;" ; Times: 5
+	Query: "Pipilo stateprovince:&#34;Colorado&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "V 1132" ; Times: 1
+	Query: "xiphorhynchus fuscus" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella stateprovince:California institutioncode:MVZ" ; Times: 13
+	Query: "(81591)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 853 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "zosterops japonicus country:&#34;United States&#34;" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+
+
+End of report.
