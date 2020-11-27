@@ -1,0 +1,131 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 173
+Number of records retrieved in searches: 3232
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 139
+	Country: Germany ; Times: 3
+	Country: Paraguay ; Times: 2
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-13 ; Times: 4
+	Date: 2020-04-07 ; Times: 51
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 10
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 52
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 23
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 11
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chlorodrepanis virens" ; Times: 8
+	Query: "Pipilo maculatus" ; Times: 3
+	Query: "Pheucticus melanocephalus" ; Times: 8
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "Haemorhous mexicanus" ; Times: 8
+	Query: "specificepithet:tyrannus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "5290" ; Times: 1
+	Query: "Pica pica" ; Times: 4
+	Query: "vntype:observation basisofrecord:HumanObservation" ; Times: 5
+	Query: "Setophaga citrina" ; Times: 2
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Vireo huttoni carolinae" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "Piranga ludoviciana" ; Times: 8
+	Query: "Vireo gilvus swainsoni" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "mvz 7227" ; Times: 1
+	Query: "Spinus pinus" ; Times: 3
+	Query: "Vireo huttoni victoria" ; Times: 1
+	Query: "setophaga castanea" ; Times: 1
+	Query: "Icterus bullockii" ; Times: 3
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 3
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "Amazona collaria" ; Times: 1
+	Query: "A. pygmaea" ; Times: 6
+	Query: "basisofrecord:HumanObservation" ; Times: 3
+	Query: "Thamnophilus caerulescens" ; Times: 2
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "specificepithet:tyrannus genus:Tyrannus country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Zosterops (Hawaii)" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "Buteo jamaicensis" ; Times: 4
+	Query: "gallus" ; Times: 1
+	Query: "Loxia curvirostra" ; Times: 3
+	Query: "84344" ; Times: 1
+	Query: "Amazona agilis" ; Times: 1
+	Query: "Passerina amoena" ; Times: 8
+	Query: "MVZ 2324" ; Times: 1
+	Query: "maps 1058" ; Times: 1
+	Query: "Progne chalybea" ; Times: 7
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "Sturnella neglecta" ; Times: 2
+	Query: "Accipiter gentilis" ; Times: 4
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Antrostomus arizonae" ; Times: 2
+	Query: "dendroica castanea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1171 download events in this period)
+Total number of records downloaded: 94
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Amazona agilis" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:MVZ" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "junco hyemalis institutioncode:MVZ" ; Times: 1
+	Query: "Amazona collaria" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+
+
+End of report.
