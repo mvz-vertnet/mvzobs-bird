@@ -1,0 +1,115 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 2912
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 156
+	Country: Denmark ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-08 ; Times: 9
+	Date: 2019-11-09 ; Times: 5
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-07 ; Times: 11
+	Date: 2019-11-16 ; Times: 8
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-13 ; Times: 5
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 9
+	Date: 2019-11-27 ; Times: 28
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-26 ; Times: 17
+	Date: 2019-11-12 ; Times: 5
+	Date: 2019-11-14 ; Times: 46
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:celata class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "catalognumber:4400 institutioncode:MVZ" ; Times: 2
+	Query: "genus:HEMITHRAUPIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "Aphelocoma coerulescens 2019" ; Times: 6
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "Loxia curvirostra year &gt; 1990" ; Times: 1
+	Query: "Strix occidentalis lucida 2018" ; Times: 3
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Vireo gilvus swainsoni" ; Times: 1
+	Query: "selasphorus sasin sedentarius" ; Times: 1
+	Query: "Strix occidentalis lucida 2012" ; Times: 3
+	Query: "Aphelocoma coerulescens 1978" ; Times: 6
+	Query: "Molothrus ater obscurus mappable:1" ; Times: 8
+	Query: "specificepithet:cassinii class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "specificepithet:celata class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "north american river otter" ; Times: 1
+	Query: "specificepithet:decumanus genus:psarocolius country:&#34;Venezuela&#34;" ; Times: 6
+	Query: "mvz 191153" ; Times: 1
+	Query: "specificepithet:cassinii class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "MVZ 191153" ; Times: 1
+	Query: "Strix occidentalis lucida 2019" ; Times: 3
+	Query: "Aphelocoma coerulescens 2002" ; Times: 6
+	Query: "catalognumber:942" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 2925" ; Times: 1
+	Query: "specificepithet:plumbeus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "genus:Pyrrhocoma country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Shovel" ; Times: 1
+	Query: "Strix occidentalis lucida 1984" ; Times: 3
+	Query: "MVZ 7898" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Trichothraupis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Molothrus ater obscurus" ; Times: 78
+	Query: "schell creek" ; Times: 1
+	Query: "Aphelocoma coerulescens 2017" ; Times: 6
+	Query: "specificepithet:plumbeus class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "selasphorus sasin sedentarius vntype:observation" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1367 download events in this period)
+Total number of records downloaded: 340
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vireo vicinior" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Caprimulgiformes" ; Times: 2
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 2
+	Query: "order:Charadriiformes" ; Times: 4
+
+
+End of report.
