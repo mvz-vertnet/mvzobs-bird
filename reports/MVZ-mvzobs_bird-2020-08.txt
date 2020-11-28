@@ -1,0 +1,97 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 201
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Peru ; Times: 3
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-10 ; Times: 12
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Trochilidae institutioncode:MVZ" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "class:aves county:&#34;clark&#34; stateprovince:&#34;nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Cyanocorax chrysops" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "Sweetwater county:&#34;Lyon&#34;" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "mappable:1 scientificname:Myiopsitta monachus" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "107643" ; Times: 2
+	Query: "mappable:1 scientificname:Sicalis flaveola" ; Times: 1
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus jocosus" ; Times: 1
+	Query: "mappable:1 scientificname:Eupsittula nana" ; Times: 1
+	Query: "mappable:1 scientificname:Chauna torquata" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis luteola" ; Times: 1
+	Query: "genus:Stephanoxis" ; Times: 1
+	Query: "A. pygmaea" ; Times: 1
+	Query: "mappable:1 scientificname:Leiothrix lutea" ; Times: 1
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "desatoya" ; Times: 1
+	Query: "Ixoreus naevius" ; Times: 1
+	Query: "Piranga ludoviciana" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "class:aves coordinateuncertaintyinmeters&lt;25 stateprovince:nevada" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia striata" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "8243" ; Times: 1
+	Query: "specificepithet:lecontei genus:toxostoma" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 3
+	Query: "mappable:1 scientificname:Guira guira" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "specificepithet:culicivorus family:parulidae country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "audio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 756 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+
+
+End of report.
