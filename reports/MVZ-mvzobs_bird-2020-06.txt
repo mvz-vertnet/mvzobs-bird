@@ -1,0 +1,58 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-10 ; Times: 8
+	Date: 2020-06-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "V-1132" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "mvz pycnonotus" ; Times: 3
+	Query: "Hemithraupis guira" ; Times: 1
+	Query: "Tabasco" ; Times: 3
+	Query: "Strix occidentalis lucida" ; Times: 3
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "pycnonotus" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-10 ; Times: 2
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tersina viridis" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+
+
+End of report.
