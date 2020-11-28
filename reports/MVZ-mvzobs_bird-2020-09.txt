@@ -1,0 +1,77 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-05 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tabasco" ; Times: 3
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "american otter" ; Times: 2
+	Query: "tinamidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2020 institutioncode:MVZ" ; Times: 1
+	Query: "synallaxis spixi" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "scientificname:Furnarius rufus" ; Times: 2
+	Query: "Tiaris bicolor" ; Times: 2
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:graciae genus:Setophaga" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tabasco" ; Times: 2
+	Query: "Coereba flaveola" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 976 download events in this period)
+Total number of records downloaded: 70
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tabasco" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+
+
+End of report.
