@@ -1,0 +1,100 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 930
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United Kingdom ; Times: 8
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 28
+	Country: China ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 5
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-19 ; Times: 4
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-07 ; Times: 9
+	Date: 2020-11-04 ; Times: 2
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-02 ; Times: 10
+	Date: 2020-11-03 ; Times: 3
+	Date: 2020-11-13 ; Times: 6
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-14 ; Times: 3
+	Date: 2020-11-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Psiloscops flammeolus" ; Times: 2
+	Query: "Pheucticus melanocephalus" ; Times: 1
+	Query: "american badger" ; Times: 5
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1986 year &lt;= 1986 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "vntype:observation basisofrecord:HumanObservation" ; Times: 2
+	Query: "mappable:1 scientificname:Synallaxis ruficapilla" ; Times: 1
+	Query: "mappable:1 scientificname:Picumnus temminckii" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "mappable:1 scientificname:Stephanoxis lalandi" ; Times: 1
+	Query: "catalognumber:4225 institutioncode:MVZ" ; Times: 1
+	Query: "mappable:1 scientificname:Chiroxiphia caudata" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 2
+	Query: "zosterops japonicus country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 2
+	Query: "selasphorus sasin sedentarius" ; Times: 5
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "mappable:1 scientificname:Pyriglena leucoptera" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 2
+	Query: "mvz birds" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 3
+	Query: "MVZ 599" ; Times: 1
+	Query: "tornado" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1985 year &lt;= 1992 institutioncode:MVZ" ; Times: 4
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1987 year &lt;= 1987" ; Times: 2
+	Query: "specificepithet:californica genus:callipepla stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "tabasco" ; Times: 3
+	Query: "mappable:1 scientificname:Campephilus robustus" ; Times: 1
+	Query: "mappable:1 scientificname:Xiphorhynchus fuscus" ; Times: 4
+	Query: "Progne chalybea" ; Times: 1
+	Query: "catalognumber:210 institutioncode:MVZ" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "vntype:observation hassex:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 842 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tabasco" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "selasphorus sasin sedentarius" ; Times: 1
+	Query: "cyanocitta stelleri" ; Times: 1
+	Query: "Psiloscops flammeolus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+
+
+End of report.
