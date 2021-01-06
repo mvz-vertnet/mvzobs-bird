@@ -1,0 +1,172 @@
+Report for Institution Code MVZ, Resource mvzobs_bird
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 2150
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 88
+	Country: Cuba ; Times: 2
+	Country: United Kingdom ; Times: 33
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 3
+	Date: 2020-12-04 ; Times: 20
+	Date: 2020-12-20 ; Times: 9
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-06 ; Times: 4
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-09 ; Times: 3
+	Date: 2020-12-08 ; Times: 12
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 77
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "quercus" ; Times: 1
+	Query: "Columba argentina" ; Times: 2
+	Query: "mappable:1 scientificname:Colaptes campestris" ; Times: 2
+	Query: "mappable:1 scientificname:Tapera naevia" ; Times: 1
+	Query: "mappable:1 scientificname:Chamaeza campanisona" ; Times: 2
+	Query: "mappable:1 scientificname:Stephanoxis lalandi" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 3
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "mappable:1 scientificname:Megascops choliba" ; Times: 1
+	Query: "3790" ; Times: 1
+	Query: "mappable:1 scientificname:Coereba flaveola" ; Times: 1
+	Query: "Loxia leucoptera" ; Times: 2
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "mappable:1 scientificname:Synallaxis cinerascens" ; Times: 1
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 6
+	Query: "Piranga ludoviciana" ; Times: 2
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "mappable:1 scientificname:Vanellus chilensis" ; Times: 1
+	Query: "mappable:1 scientificname:Cacicus haemorrhous" ; Times: 2
+	Query: "mappable:1 scientificname:Glaucidium brasilianum" ; Times: 1
+	Query: "mappable:1 scientificname:Turdus amaurochalinus" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Serpophaga subcristata" ; Times: 2
+	Query: "mappable:1 scientificname:Guira guira" ; Times: 1
+	Query: "mappable:1 scientificname:Turdus rufiventris" ; Times: 1
+	Query: "mappable:1 scientificname:Tersina viridis" ; Times: 1
+	Query: "mappable:1 scientificname:Machetornis rixosa" ; Times: 1
+	Query: "mappable:1 scientificname:Setopagis parvula" ; Times: 1
+	Query: "mappable:1 scientificname:Setophaga pitiayumi" ; Times: 1
+	Query: "mappable:1 scientificname:Synallaxis spixi" ; Times: 1
+	Query: "mappable:1 scientificname:Crotophaga ani" ; Times: 1
+	Query: "mappable:1 scientificname:Molothrus bonariensis" ; Times: 1
+	Query: "Progne chalybea" ; Times: 2
+	Query: "mappable:1 scientificname:Cyanocorax chrysops" ; Times: 1
+	Query: "mappable:1 scientificname:Cyclarhis gujanensis" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctidromus albicollis" ; Times: 1
+	Query: "Passerina amoena" ; Times: 2
+	Query: "setophaga occidentalis" ; Times: 1
+	Query: "MVZ 187910" ; Times: 2
+	Query: "mappable:1 scientificname:Pitangus sulphuratus" ; Times: 1
+	Query: "mappable:1 scientificname:Thamnophilus caerulescens" ; Times: 1
+	Query: "mappable:1 scientificname:Dysithamnus mentalis" ; Times: 1
+	Query: "specificepithet:passerina genus:Spizella county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "tinamidae" ; Times: 2
+	Query: "Tiaris bicolor" ; Times: 2
+	Query: "Pipilo maculatus" ; Times: 1
+	Query: "Loxia curvirostra" ; Times: 2
+	Query: "mappable:1 scientificname:Conopophaga lineata" ; Times: 1
+	Query: "mappable:1 scientificname:Psarocolius decumanus" ; Times: 1
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "mappable:1 scientificname:Icterus pyrrhopterus" ; Times: 1
+	Query: "mappable:1 scientificname:Campephilus robustus" ; Times: 2
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 3
+	Query: "mappable:1 scientificname:Gnorimopsar chopi" ; Times: 1
+	Query: "mappable:1 scientificname:Zonotrichia capensis" ; Times: 1
+	Query: "mappable:1 scientificname:Colaptes melanochloros" ; Times: 1
+	Query: "mappable:1 scientificname:Polioptila plumbea" ; Times: 1
+	Query: "Chlorodrepanis virens" ; Times: 1
+	Query: "mappable:1 scientificname:Phaeomyias murina" ; Times: 1
+	Query: "mappable:1 scientificname:Synallaxis ruficapilla" ; Times: 1
+	Query: "mappable:1 scientificname:Rupornis magnirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Ciccaba virgata" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 2
+	Query: "mappable:1 scientificname:Melanerpes candidus" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 2
+	Query: "mappable:1 scientificname:Euphonia violacea" ; Times: 1
+	Query: "mappable:1 scientificname:Lathrotriccus euleri" ; Times: 1
+	Query: "catalognumber:4225 institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Chiroxiphia caudata" ; Times: 2
+	Query: "specificepithet:brissonii genus:cyanocompsa" ; Times: 1
+	Query: "glaucidium brasilianum" ; Times: 1
+	Query: "mappable:1 scientificname:Pyriglena leucoptera" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 4
+	Query: "mappable:1 scientificname:Sicalis flaveola" ; Times: 1
+	Query: "Icterus bullockii" ; Times: 2
+	Query: "mappable:1 scientificname:Turdus leucomelas" ; Times: 1
+	Query: "mappable:1 scientificname:Basileuterus culicivorus" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "mappable:1 scientificname:Chaetura cinereiventris" ; Times: 3
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 2
+	Query: "mappable:1 scientificname:Xiphorhynchus fuscus" ; Times: 2
+	Query: "mappable:1 scientificname:Myiodynastes solitarius" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "mappable:1 scientificname:Mimus saturninus" ; Times: 1
+	Query: "mappable:1 scientificname:Piaya cayana" ; Times: 1
+	Query: "mappable:1 scientificname:Asio clamator" ; Times: 2
+	Query: "mappable:1 scientificname:Capsiempis flaveola" ; Times: 3
+	Query: "COlumbina picui" ; Times: 1
+	Query: "mappable:1 scientificname:Euscarthmus meloryphus" ; Times: 1
+	Query: "mappable:1 scientificname:Progne chalybea" ; Times: 1
+	Query: "mappable:1 scientificname:Trichothraupis melanops" ; Times: 1
+	Query: "Spinus pinus" ; Times: 1
+	Query: "mappable:1 scientificname:Nothura maculosa" ; Times: 2
+	Query: "Pheucticus melanocephalus" ; Times: 2
+	Query: "Bombycilla cedrorum" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "mappable:1 scientificname:Suiriri suiriri" ; Times: 1
+	Query: "mappable:1 scientificname:Trogon rufus" ; Times: 1
+	Query: "mappable:1 scientificname:Cnemotriccus fuscatus" ; Times: 2
+	Query: "mappable:1 scientificname:Patagioenas picazuro" ; Times: 2
+	Query: "mappable:1 scientificname:Furnarius rufus" ; Times: 1
+	Query: "mappable:1 scientificname:Camptostoma obsoletum" ; Times: 1
+	Query: "mappable:1 scientificname:Elanus leucurus" ; Times: 1
+	Query: "catalognumber:210 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Leptotila verreauxi" ; Times: 1
+	Query: "mappable:1 scientificname:Anumbius annumbi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 705 download events in this period)
+Total number of records downloaded: 4664
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+
+
+End of report.
